@@ -1,6 +1,6 @@
 // Write three different programs to perform fractional knapsack program, job scheduling with one processor and job scheduling with multiple processor
 
-//Job_scheduling
+//Job_scheduling_with_one_processor
 
 #include<stdio.h>
  int main()
